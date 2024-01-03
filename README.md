@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Micah.
-- 👀 I’m interested in books, learning, coffee, creating, and travelling.
-- 🌱 I’m currently learning cybersecurity and Python. I may not have a ton of practical experience, but my background in foreign languages has really helped me pick it up quickly. And most importantly, I'm having fun and enjoying the struggle. I hope you enjoy my projects!
+- 🌱 I’m am a security engineer interested in managing security infrastructure with Terraform.
 
 <!---
 micaroni/micaroni is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
